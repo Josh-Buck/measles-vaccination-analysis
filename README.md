@@ -55,11 +55,11 @@ pip install pandas numpy matplotlib seaborn scipy openpyxl
 4. **Time Series Analysis:** Analyzed trends from 1980-2024, with focus on pre/post-COVID comparison (2015-2019 vs 2020-2024)
 5. **Visualization:** Created multi-series line plots, box plots, histograms, and bar charts to communicate findings
 
-## 🔗 Data Source
+##  Data Source
 
 World Health Organization (WHO) and UNICEF immunization coverage estimates
 
-## 👤 Author
+##  Author
 
 **Josh Buck**  
 MS Data Science Student, Lehigh University  
